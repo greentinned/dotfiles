@@ -186,6 +186,13 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 #
+# Keyboard
+#
+input "type:keyboard" {
+    xkbd_options caps:escape
+}
+
+#
 # Status Bar:
 #
 # Read `man 5 sway-bar` for more information about this section.
