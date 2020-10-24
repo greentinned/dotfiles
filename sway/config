@@ -202,8 +202,8 @@ bar {
         background #00000090
        
         # values                border          background      text
-        focused_workspace        #302F2D         #302F2D         #FFFFFF
-        inactive_workspace      #00000090         #00000090         #42413E
+        focused_workspace       #302F2D         #302F2D         #FFFFFF
+        inactive_workspace      #00000090       #00000090         #42413E
     }
 }
 
