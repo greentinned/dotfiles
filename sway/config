@@ -16,7 +16,8 @@ client.unfocused        #42413E #21201F #42413E #FFC690         #21201F
 # *****
 # Gaps
 # *****
-gaps inner 16
+gaps inner 8
+gaps outer 16
 
 # *****
 # Fonts
@@ -189,6 +190,7 @@ bindsym $mod+r mode "resize"
 # Touchpad
 #
 input type:touchpad {
+    tap enabled
     scroll_factor 0.3
     natural_scroll enabled
     accel_profile adaptive
