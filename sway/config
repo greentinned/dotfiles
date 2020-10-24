@@ -186,7 +186,7 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 #
-# Keyboard
+# Touchpad
 #
 input type:touchpad {
     scroll_factor 0.3
