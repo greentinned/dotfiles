@@ -188,7 +188,16 @@ bindsym $mod+r mode "resize"
 #
 # Keyboard
 #
-input "type:keyboard" {
+input type:touchpad {
+    scroll_factor 0.3
+    natural_scroll enabled
+    accel_profile adaptive
+}
+
+#
+# Keyboard
+#
+input type:keyboard {
     xkb_options caps:escape
 }
 
