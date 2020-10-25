@@ -10,6 +10,9 @@ nvim/plugged/*
 /* SWAY */
 !sway/
 
+/* TMUX */
+!tmux/
+
 /* WOFI */
 !wofi/
 
