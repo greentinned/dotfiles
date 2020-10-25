@@ -24,8 +24,10 @@ gaps outer 16
 # *****
 font pango: JetBrainsMono 12
 
-### Variables
-#
+# *********
+# Variables
+# *********
+
 # Logo key. Use Mod1 for Alt.
 set $mod Mod1
 # Home row direction keys, like vim
