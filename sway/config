@@ -22,7 +22,8 @@ gaps outer 16
 # *****
 # Fonts
 # *****
-font pango: JetBrainsMono 12
+# font pango: JetBrainsMono 12
+font pango: Helvetica 55 Roman 10
 
 # *********
 # Variables
@@ -36,7 +37,8 @@ set $down j
 set $up k
 set $right l
 # Your preferred terminal emulator
-set $term gnome-terminal
+# set $term gnome-terminal
+set $term alacritty
 # Your preferred application launcher
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
