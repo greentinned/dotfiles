@@ -27,6 +27,7 @@ set hidden                      " No confirm when change buffers
 set nocompatible
 set signcolumn=yes
 hi clear SignColumn
+hi Normal ctermbg=None
 
 " KEYS:
 nnoremap <leader>so :so $MYVIMRC<CR>

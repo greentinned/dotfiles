@@ -1,15 +1,15 @@
 *
 
-/* ALACRITTY */
+# ALACRITTY
 !alacritty/
 
-/* NVIM */
+# NVIM
 !nvim/
 nvim/plugged/*
 
-/* SWAY */
+# SWAY 
 !sway/
 
-/* WOFI */
+# WOFI
 !wofi/
 
